@@ -3,7 +3,7 @@ https://www.dundee.ac.uk/module/ac52002
 
 Developed a C++ program using the Stack and Queue data structures with the following features:
 
-	• Allows a user to input a number of share purchases made up of a stock name, 
+	• Allow a user to input a number of share purchases made up of a stock name, 
 	  share price and number of shares purchased
 	• The user can query a certain number of shares of a stock they have purchased 
 	  to determine its cost according to the LIFO and FIFO accounting methods
