@@ -21,11 +21,11 @@ The following example shows the program in action, where three purchases have be
 
 To determine how much 450 shares of "HJBNX" cost based on LIFO accounting, the following calculation is done:
 
-((300*49.22)+(150*55.31))/450 = 51.25
+((300 * 49.22)+(150 * 55.31))/450 = 51.25
 
 To determine how much 450 shares of "HJBNX" cost based on FIFO accounting, the following calculation is done:
 
-((150*50.67)+(225*55.31)+(75*49.22))/450 = 52.75
+((150 * 50.67)+(225 * 55.31)+(75*49.22))/450 = 52.75
 
 ![image](https://user-images.githubusercontent.com/94235400/162039587-35e15d18-c1c5-41e2-a890-f5f4204024db.png)
 
