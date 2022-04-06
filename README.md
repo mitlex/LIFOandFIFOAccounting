@@ -30,6 +30,6 @@ To determine how much 450 shares of "HJBNX" cost based on FIFO accounting, the f
 I can print the current Stack and Queue contents, sell 450 shares of "HJBNX" (remove 450 shares of "HJBNX" from the Stack and Queue), then re-print the Stack and Queue contents, as shown below:![image](https://user-images.githubusercontent.com/94235400/162039609-203fa5e7-076c-4419-bf98-ac7da76c6100.png)
 
 ![image](https://user-images.githubusercontent.com/94235400/162039721-e4b403f4-d8cc-46d3-9e89-d275a562e5dc.png)
+![image](https://user-images.githubusercontent.com/94235400/162039942-35b3513c-d9ce-4a45-a156-13004453613e.png)
 
-![image](https://user-images.githubusercontent.com/94235400/162039793-daa62ee2-98a4-4327-b5a7-27daa9a897d9.png)
 
